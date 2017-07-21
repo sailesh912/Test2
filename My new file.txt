@@ -3,3 +3,6 @@ This is a sample file
 Updated in Git
 
 Updated again in local
+
+
+Edited in Git again in parallel to local
